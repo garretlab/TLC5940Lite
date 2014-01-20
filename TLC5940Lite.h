@@ -2,8 +2,7 @@
  * TLC5940Lite.h
  *
  * Copyright (c) 2014, garretlab at gmail.com All rights reserved.
- * Redistribution and use in source and binary forms, with or without modification, are permitted.
- *
+ * This library is based on TLC5940 Library which is based on GNU General Public License Version 3.
  */
 
 #ifndef TLC5940LITE_H
